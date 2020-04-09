@@ -1,12 +1,6 @@
-  
- Demote headings (H1 → H2, etc.)
- HTML headings/IDs
- Wrap HTML
- Render HTML tags
-Help: Docs, Bugs
+Suggest changes in the [google doc](https://docs.google.com/document/d/1p2phT3XjkAV45AaDoKYrgPvBAmagsfXRMxeA8YXDDCA/edit#)
+
 <!----- Conversion time: 0.53 seconds.
-
-
 Using this Markdown file:
 
 1. Cut and paste this output into your source file.
